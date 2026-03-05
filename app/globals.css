@@ -17,6 +17,14 @@
   --color-accent-500: #8b5cf6;
   --color-accent-600: #7c3aed;
 
+  --color-orange-50: #fff7ed;
+  --color-orange-100: #ffedd5;
+  --color-orange-200: #fed7aa;
+  --color-orange-300: #fdba74;
+  --color-orange-400: #fb923c;
+  --color-orange-500: #f97316;
+  --color-orange-600: #ea580c;
+
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
 }
 
